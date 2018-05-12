@@ -17,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Daniel_Defoe
     - http://www.gutenberg.org/browse/authors/j#a26500
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41429#Het-leven-en-de-lotgevallen-van-Robinson-Crusoe-t.-2
 gutenberg_issued: '2012-11-21'
 gutenberg_type: Text
 identifiers:
