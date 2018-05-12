@@ -1,0 +1,37 @@
+_repo: Het-leven-en-de-lotgevallen-van-Robinson-Crusoe-t.-2_41429
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Defoe, Daniel
+    aliases:
+    - Defo, Daniel
+    - Moreton, Andrew
+    - John, Gabriel
+    deathdate: 1731
+    gutenberg_agent_id: '204'
+    url: http://www.gutenberg.org/2009/agents/204
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Daniel_Defoe
+    - http://www.gutenberg.org/browse/authors/j#a26500
+description: ''
+gutenberg_issued: '2012-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41429'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shipwreck survival -- Fiction'
+- !lcsh 'Castaways -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Atlantic Ocean -- Fiction'
+- !lcsh 'Islands -- Fiction'
+- !lcsh 'Crusoe, Robinson (Fictitious character) -- Fiction'
+- !lcsh 'Adventure stories'
+title: Het leven en de lotgevallen van Robinson Crusoe, t. 2
+url: http://www.gutenberg.org/ebooks/41429
